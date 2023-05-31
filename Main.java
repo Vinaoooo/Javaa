@@ -133,7 +133,7 @@ public class Main {
         //atribuindo um valor a variavel
         int resultado1 = adicao(2, 3);
         //exibindo o resultado - é usado o print pois a função não é do tipo void, ent retorna um valor do tipo int.
-        System.out.println(resultado1);
+        System.out.println("Você acabou de fazer uma soma de "+ a + "+" + b + "=" + resultado1);
 
     }
 
